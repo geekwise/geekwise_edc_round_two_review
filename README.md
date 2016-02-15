@@ -17,25 +17,29 @@
 
  - Introduction To Team based projects
     - HTML Email newsletters are created in teams of four
-    - Each day is a different team to integrate the all soft skills
-    - Paired Programming is setup to speed the process of learning new technical skills.
+    - Each day is a different team to intergrate the all soft skills
+    - Paired Programming is setup to speed the procress of learning new technical skills.
     
 #Week 2: (02/08/16 - 02/12/16)
 ##Overview Of Concepts Covered
 
- - Employee / Freelancer / Entrepreneur
-	 - employers value all three skills
-	 - freelance work and opportunities on Upwork.com
+ - Employee / Freelancer / Entreprenuer
+	 - employeers value all three skills
+	 - freelance work and opporunities on Upwork.com
 
  - Freelancer
     - Upwork.com profiles created
     - First job proposals created
-    - Employable Skills Tests Taken and verified on Upwork.com
+    - Employable Skills Tests Taken and verifed on Upwork.com
     - Professional Photos are taken for all work related social profiles (Github/Twitter/Upwork/Linkedin)
 
  - Introduction To HTML5 and CSS3
-	- HTML Email Newsletter
-	- Static One Page Design Layout
+	- Three Landing Page Layouts Created
+	- Resumes Updated To Reflect New Job Opportunities
+
+- Geekwise Professional Workshop Series
+	- Resume Building And Targeting For Specific Job Opportunities
+	- Freelance Training On Job Proposals, In Person Meetings And Managing Project Expectations
 
  - Introduction to Github and GIT workflow for team based projects
     - Concepts are taught for combining team member projects into a single deliverable for a client
@@ -43,4 +47,3 @@
  
  - Review Of Expectations After Completing 
     
-   

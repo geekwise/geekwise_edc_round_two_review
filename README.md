@@ -42,8 +42,9 @@
 	- Freelance Training On Job Proposals, In Person Meetings And Managing Project Expectations
 
  - Introduction to Github and GIT workflow for team based projects
-    - Concepts are taught for combining team member projects into a single deliverable for a client
+	- Concepts are taught for combining team member projects into a single deliverable for a client
     - Team Leads are introduced and expected to manage timelines and team dynamics
  
- - Review Of Expectations After Completing 
+
+- Review Of Expectations After Completing
     

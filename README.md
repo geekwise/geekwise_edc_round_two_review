@@ -61,9 +61,7 @@
 ##Overview Of Concepts Covered
     
 #Week 7: (03/14/16 - 03/18/16)
-##Overview Of Concepts Covered
+	##Overview Of Concepts Covered
     
-#Week 7: (03/21/16 - 03/25/16)
-##Overview Of Concepts Covered
-    
-                
+#Week 8: (03/21/16 - 03/25/16)
+	##Overview Of Concepts Covered

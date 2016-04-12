@@ -20,7 +20,8 @@
 	
 #Week 4: (02/22/16 - 02/26/16)
 	##Overview Of Concepts Covered
-	- Web Layout: From design to first presentation to a client	- Emphasis on Mockups and Client presentation materials
+	- Web Layout: From design to first presentation to a client
+	- Emphasis on Mockups and Client presentation materials
 	- Language Usage and Vocabulary for professional client interaction
 	- Introduction to the Box Model and basic web layout
 

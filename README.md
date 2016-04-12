@@ -76,14 +76,14 @@
 	- Introduction to API's
 	- Application Programming Interface
 	- The basics of a "web app" versus website
-	- Emphasis on the Create aspects CRUD
+	- Emphasis on the Create aspects of CRUD
 	- For Loops and If Statements
 	- Introduction to Event Listeners
 
 #Week 11: (04/11/16 - 04/15/16)
 	* Overview Of Concepts Covered
 	- Javascript CRUD
-	- Emphasis on the Read of CRUD
+	- Emphasis on the Read aspects of CRUD
 	- Reading data from the Github API
 	- Objects and JSON data
 	- Introduction to Asynchronous Javascript

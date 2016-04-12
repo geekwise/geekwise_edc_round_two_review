@@ -87,3 +87,48 @@
 	- Reading data from the Github API
 	- Objects and JSON data
 	- Introduction to Asynchronous Javascript
+
+#Week 12: (04/18/16 - 04/22/16)
+	* Overview Of Concepts Covered
+
+#Week 13: (04/25/16 - 04/29/16)
+	* Overview Of Concepts Covered
+
+#Week 14: (05/02/16 - 05/06/16)
+	* Overview Of Concepts Covered
+
+#Week 15: (05/09/16 - 05/13/16)
+	* Overview Of Concepts Covered
+
+#Week 16: (05/16/16 - 05/20/16)
+	* Overview Of Concepts Covered
+
+#Week 17: (05/23/16 - 05/27/16)
+	* Overview Of Concepts Covered
+
+#Week 18: (05/30/16 - 06/03/16)
+	* Overview Of Concepts Covered
+
+#Week 19: (06/06/16 - 06/10/16)
+	* Overview Of Concepts Covered
+
+#Week 20: (06/13/16 - 06/17/16)
+	* Overview Of Concepts Covered
+
+#Week 21: (06/20/16 - 06/24/16)
+	* Overview Of Concepts Covered
+
+#Week 22: (06/27/16 - 07/01/16)
+	* Overview Of Concepts Covered
+
+#Week 23: (07/04/16 - 07/08/16)
+	* Overview Of Concepts Covered
+
+#Week 24: (07/11/16 - 07/15/16)
+	* Overview Of Concepts Covered
+
+#Week 25: (07/18/16 - 07/22/16)
+	* Overview Of Concepts Covered
+
+#Week 26: (07/25/16 - 07/29/16)
+	* Overview Of Concepts Covered

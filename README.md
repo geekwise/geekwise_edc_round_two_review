@@ -3,15 +3,15 @@
 ---
 #Week 1: (02/01/16 - 02/05/16)
 	##Overview Of Concepts Covered
-	- Four soft skills needed for employemnet
-	- Creativity,Communication,Critical Thinking,Collaberation
+	- Four soft skills needed for employment
+	- Creativity,Communication,Critical Thinking, Collaboration
 	- Introduction to HTML and CSS
    
 #Week 2: (02/08/16 - 02/12/16)
 ##Overview Of Concepts Covered
 	##Overview Of Concepts Covered
-	- Four soft skills needed for employemnet
-	- Creativity,Communication,Critical Thinking,Collaberation
+	- Four soft skills needed for employment
+	- Creativity,Communication,Critical Thinking, Collaboration
 	- Introduction to HTML and CSS
 	
 #Week 3: (02/15/16 - 02/19/16)
@@ -29,13 +29,17 @@
 	
 #Week 7: (03/14/16 - 03/18/16)
 	##Overview Of Concepts Covered
+	- 12 page site built from DustyBuns.com
+	- Emphasis on complex CSS sections
+	- pseudo selectors and stacking class 
+	- Introduction to CSS animations
 	
 #Week 8: (03/21/16 - 03/25/16)
 	##Overview Of Concepts Covered
-	- Introduction to Javascript
-	- Emphasis on Create of CRUD
-	- For Loops and If Statementes
-	- Introduction to Event Listeners
+	- Debugging previous projects (GeekwiseAcademy.com & DustyBuns.com)
+	- Emphasis on interaction with a Project Manager
+	- Working on a complete site from mockup to static HTML/CSS 
+	- Introduction to workflow concepts for production work
 
 #Week 9: (03/28/16 - 04/01/16)
 	##Overview Of Concepts Covered
@@ -48,8 +52,8 @@
 #Week 10: (04/04/16 - 04/08/16)
 	##Overview Of Concepts Covered
 	- Introduction to API's
-	- Emphasis on Create of CRUD
-	- For Loops and If Statementes
+	- Emphasis on Create aspects CRUD
+	- For Loops and If Statements
 	- Introduction to Event Listeners
 
 #Week 11: (04/11/16 - 04/15/16)

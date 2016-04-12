@@ -20,17 +20,30 @@
 	
 #Week 4: (02/22/16 - 02/26/16)
 	##Overview Of Concepts Covered
-	
+	- Web Layout: From design to first presentation to a client	- Emphasis on Mockups and Client presentation materials
+	- Language Usage and Vocabulary for professional client interaction
+	- Introduction to the Box Model and basic web layout
+
 #Week 5: (02/29/16 - 03/04/16)
 	##Overview Of Concepts Covered
+	- Weekly Professional Workshop Series introduced
+	- Emphasis on Resumes and Independent study 
+	- Language Usage and Vocabulary for professional Web Development
+	- Introduction to Github, GIT and repositories for workflow on production level projects
+	
+
 	
 #Week 6: (03/07/16 - 03/11/16)
 	##Overview Of Concepts Covered
+	- 7 page site built from GeekwiseAcademy.com
+	- Emphasis on CSS Box Model 
+	- Page Layout and HTML/CSS Structure 
+	- Introduction to FlexBox and Mobile Web
 	
 #Week 7: (03/14/16 - 03/18/16)
 	##Overview Of Concepts Covered
-	- 12 page site built from DustyBuns.com
-	- Emphasis on complex CSS sections
+	- 14 page site built from DustyBuns.com
+	- Emphasis on complex CSS Selectors
 	- pseudo selectors and stacking class 
 	- Introduction to CSS animations
 	

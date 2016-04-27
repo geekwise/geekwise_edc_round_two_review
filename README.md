@@ -90,9 +90,18 @@
 
 #Week 12: (04/18/16 - 04/22/16)
 	* Overview Of Concepts Covered
+	- Building a basic app concepts covered with a web based calculator
+	- Debugging and working with smaller pieces to complete a puzzle - How to build a tiny web app
+	- Deep dive and review on all Javascript concepts to asset working knowledge of Javascript
+	- Combining functions to complete the requirements of CRUD
 
 #Week 13: (04/25/16 - 04/29/16)
 	* Overview Of Concepts Covered
+	- Javascript Objects And Concepts
+	- Emphasis on "How To" and best practices when working with objects and functions
+	- Building an Address Book Web App
+	- Outside learning material and supplemental training provided
+	- Introduction to Web App Design and Development Concepts (UI/UX)
 
 #Week 14: (05/02/16 - 05/06/16)
 	* Overview Of Concepts Covered

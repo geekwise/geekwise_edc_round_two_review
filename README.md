@@ -105,9 +105,29 @@
 
 #Week 14: (05/02/16 - 05/06/16)
 	* Overview Of Concepts Covered
+	
+	* WP Group
+	- Overview of WP content intergration
+	- Pages, Posts, Taxonomy
+	- Overview of Child Themes
+	- Custom Post Types / Fields
+	- Content Data Entry and Site Structure
+	- 10 Page from Static (html/css/js) to WP layout
+	- Overview of WP Shortcodes and Plugins
+	- Admin panel , permissions, users, security
+	- Using GIT to have work flow process for WP and GIT
 
 #Week 15: (05/09/16 - 05/13/16)
 	* Overview Of Concepts Covered
+	
+	* WP Group
+	- HTML 5 Boiler Plate for Child Theme
+	- PHP includes
+	- Custom Post Types Plugin
+	- Inque for CSS
+	
+	
+
 
 #Week 16: (05/16/16 - 05/20/16)
 	* Overview Of Concepts Covered
